@@ -2,3 +2,4 @@ src/main/resources/application-prod.properties
 target/
 src/main/resources/application-deployment.properties
 src/main/resources/application-test.properties
+.DS_Store
