@@ -1,0 +1,359 @@
+[
+  {
+    "hero": true,
+    "slug": "steak",
+    "name": "Garlic-Infused Steak",
+    "image": "https://files.oprisor.dev/api/public/dl/KkkUg0Rd?inline=true",
+    "category": "dishes",
+    "new": true,
+    "price": 50,
+    "description": "Dive into our CHEF'S SPECIAL: a succulent steak perfectly marinated in aromatic garlic, ensuring each bite is packed with a rich, bold flavor. Paired with our golden, crispy wedges, this dish promises a balanced culinary experience. The tantalizing garlic infusion and the crunch of the wedges make it a match made in gastronomic heaven. It's not just a meal, it's a flavor journey. Indulge in the legendary pairing today!",
+    "features": "Quality Ingredients: Our Garlic-Infused Steak is crafted from a prime cut of beef, ensuring that every bite is a premium experience. Paired with this is a generous serving of golden potato wedges, crispy on the outside while retaining a soft, tender inside.\n\nFlavorful Fusion: This dish stands out due to its bold flavor profile. Freshly minced garlic cloves are infused into the steak, offering a rich and aromatic taste that garlic lovers will cherish. Complemented by the subtle seasoning of fresh rosemary, salt, and pepper, it's a harmonious blend that tantalizes the palate.",
+    "imageGallery1": "https://files.oprisor.dev/api/public/dl/bo7u-7TB?inline=true",
+    "imageGallery2": "https://files.oprisor.dev/api/public/dl/Oq1wTtu5?inline=true",
+    "imageGallery3": "https://files.oprisor.dev/api/public/dl/TeFBvv9V?inline=true",
+    "includes": [
+      {
+        "quantity": 300,
+        "item": "Premium beef steak"
+      },
+      {
+        "quantity": 60,
+        "item": "Fresh garlic cloves, minced"
+      },
+      {
+        "quantity": 200,
+        "item": "Potato wedges"
+      },
+      {
+        "quantity": 30,
+        "item": "Olive oil"
+      },
+      {
+        "quantity": 5,
+        "item": "Rosemary sprigs"
+      },
+      {
+        "quantity": 5,
+        "item": "Salt"
+      },
+      {
+        "quantity": 5,
+        "item": "Black pepper"
+      }
+    ]
+  },
+  {
+    "hero": false,
+    "slug": "elderflower-drink",
+    "name": "Elderflower Sparkling Refresher",
+    "image": "https://files.oprisor.dev/api/public/dl/Gf3xFtJ6?inline=true",
+    "category": "drinks",
+    "new": true,
+    "price": 9,
+    "description": "Introducing our SUMMER SPECIAL: the Elderflower Sparkling Refresher. This effervescent drink combines the fragrant notes of elderflower with the crispness of sparkling water, crowned with a hint of fresh lime. The result? A refreshing beverage that's perfect for warm days and cool evenings. Experience the light floral notes of elderflower balanced with zesty citrus in every sip.",
+    "features": "Refreshing Blend: Our Elderflower Sparkling Refresher is the epitome of summer in a glass. The delicate essence of elderflower pairs beautifully with the carbonation of the sparkling water, producing a drink that's both invigorating and soothing.\n\nCitrus Kick: A squeeze of fresh lime juice adds a tangy twist, elevating the drink's complexity and making it even more refreshing. Served over ice, it's the perfect way to cool down and relax.",
+    "imageGallery1": "https://files.oprisor.dev/api/public/dl/zKkHF6lX?inline=true",
+    "imageGallery2": "https://files.oprisor.dev/api/public/dl/WAeTbb8b?inline=true",
+    "imageGallery3": "https://files.oprisor.dev/api/public/dl/rpkqkduG?inline=true",
+    "includes": [
+      {
+        "quantity": 200,
+        "item": "Sparkling water"
+      },
+      {
+        "quantity": 50,
+        "item": "Elderflower syrup"
+      },
+      {
+        "quantity": 10,
+        "item": "Fresh lime juice"
+      },
+      {
+        "quantity": 30,
+        "item": "Ice cubes"
+      },
+      {
+        "quantity": 15,
+        "item": "Lime slice for garnish"
+      },
+      {
+        "quantity": 5,
+        "item": "Elderflower blossom for garnish"
+      }
+    ]
+  },
+  {
+    "hero": false,
+    "featured": false,
+    "slug": "cabbage-rolls+polenta",
+    "name": "Cabbage Rolls with Polenta",
+    "image": "https://files.oprisor.dev/api/public/dl/sS5ehG-p?inline=true",
+    "category": "dishes",
+    "new": false,
+    "price": 25,
+    "description": "Experience the best of Transylvanian cuisine with our Delight Combo. Indulge in our Hearty Stuffed Cabbage Rolls, featuring tender cabbage leaves filled with a seasoned ground meat blend, simmered in a rich tomato sauce. Complement it with our Creamy Mamaliga, a smooth polenta enriched with sour cream and cheese.",
+    "features":
+      "Authentic Transylvanian Stuffed Cabbage Rolls: Minced pork and beef, rice, and spices wrapped in cabbage leaves, cooked in tomato sauce with paprika and bay leaves.\n\n Creamy Mamaliga with Cheese: Velvety polenta with butter, topped with feta cheese and sour cream for a rich flavor.",
+    "imageGallery1": "https://files.oprisor.dev/api/public/dl/LcRjwJtE?inline=true",
+    "imageGallery2": "https://files.oprisor.dev/api/public/dl/nObiQIgu?inline=true",
+    "imageGallery3": "https://files.oprisor.dev/api/public/dl/1qL3Kksx?inline=true",
+    "includes": [
+      {
+        "quantity": 250,
+        "item": "Minced pork and beef mixture"
+      },
+      {
+        "quantity": 150,
+        "item": "Cooked rice"
+      },
+      {
+        "quantity": 100,
+        "item": "Cabbage leaves"
+      },
+      {
+        "quantity": 50,
+        "item": "Tomato sauce"
+      },
+      {
+        "quantity": 50,
+        "item": "Sour cream"
+      },
+      {
+        "quantity": 200,
+        "item": "Cornmeal for polenta"
+      },
+      {
+        "quantity": 100,
+        "item": "Feta cheese"
+      },
+      {
+        "quantity": 30,
+        "item": "Butter"
+      }
+    ]
+  },
+  {
+    "hero": false,
+    "slug": "ghoulash",
+    "name": "Ghoulash",
+    "featured": true,
+    "image": "https://files.oprisor.dev/api/public/dl/4-DJjKwh?inline=true",
+    "category": "dishes",
+    "new": true,
+    "price": 20,
+    "description": "Step into a world of flavor with our 'Ghoulash,' a spooky twist on the classic Hungarian stew. Perfectly simmered with a mix of hauntingly tender beef, spooky bell peppers, eerie onions, mystic carrots, and phantom potatoes in a thick, blood-red paprika sauce. This dish will send shivers down your spine with its deliciously robust and warming flavors.",
+    "features": "Eerie Eats: Our Ghoulash is a fearsome feast, featuring succulent cuts of beef, spectral vegetables, and root staples of the Transylvanian soil, all stewed to perfection in a thick, smoldering paprika potion. This stew is bound to captivate with its rich, deep flavors that echo the mystique of a Transylvanian twilight.\n\nSpellbinding Seasonings: We conjure up a cauldron of flavors with our secret concoction of herbs and spices, sourced from the shadowy corners of Transylvania. Each spoonful is laced with an otherworldly charm, casting a culinary spell that will enthrall and delight even the most discerning of ghouls and gourmands.",
+    "imageGallery1": "https://files.oprisor.dev/api/public/dl/9-b-lJhT?inline=true",
+    "imageGallery2": "https://files.oprisor.dev/api/public/dl/RtYLajFx?inline=true",
+    "imageGallery3": "https://files.oprisor.dev/api/public/dl/TYbph_z8?inline=true",
+    "includes": [
+      {
+        "quantity": 300,
+        "item": "Beef cubes"
+      },
+      {
+        "quantity": 100,
+        "item": "Onions, chopped"
+      },
+      {
+        "quantity": 100,
+        "item": "Red bell peppers, sliced"
+      },
+      {
+        "quantity": 100,
+        "item": "Carrots, chopped"
+      },
+      {
+        "quantity": 200,
+        "item": "Potatoes, cubed"
+      },
+      {
+        "quantity": 30,
+        "item": "Smoked paprika"
+      },
+      {
+        "quantity": 20,
+        "item": "Garlic cloves, minced"
+      },
+      {
+        "quantity": 5,
+        "item": "Caraway seeds"
+      },
+      {
+        "quantity": 500,
+        "item": "Beef broth"
+      },
+      {
+        "quantity": 50,
+        "item": "Tomato paste"
+      },
+      {
+        "quantity": 30,
+        "item": "Vegetable oil"
+      },
+      {
+        "quantity": 10,
+        "item": "Bay leaves"
+      },
+      {
+        "quantity": 10,
+        "item": "Salt"
+      },
+      {
+        "quantity": 5,
+        "item": "Black pepper"
+      }
+    ]
+  },
+  {
+    "hero": false,
+    "slug": "beef-ribs-veggie",
+    "name": "Transylvanian Beef Ribs with Garden Vegetables",
+    "image": "https://files.oprisor.dev/api/public/dl/iVvj_CpD?inline=true",
+    "category": "dishes",
+    "new": false,
+    "featured": false,
+    "price": 45,
+    "description": "Savor the haunting flavors of our Transylvanian Beef Ribs, slow-roasted to tender perfection. Accompanied by a trinity of garden-fresh asparagus, carrots, and potatoes, this dish is a hearty nod to the bountiful Transylvanian countryside. Each rib is a tale of flavor, seasoned with a secret blend of herbs and spices.",
+    "features": "Rustic Ribs: These beef ribs are a ghoulish delight, tenderly embracing the bone, infused with a concoction of herbs and slow-roasted until they reach ghostly perfection.\n\nEnchanted Garden Vegetables: Asparagus spears, heirloom carrots, and golden potatoes are roasted alongside the ribs, absorbing the bewitching flavors and adding a colorful contrast to this spectral feast.",
+    "imageGallery1": "https://files.oprisor.dev/api/public/dl/ZYxQ9A-g?inline=true",
+    "imageGallery2": "https://files.oprisor.dev/api/public/dl/8hotan20?inline=true",
+    "imageGallery3": "https://files.oprisor.dev/api/public/dl/EoQ7vtRW?inline=true",
+    "includes": [
+      {
+        "quantity": 500,
+        "item": "Beef ribs"
+      },
+      {
+        "quantity": 200,
+        "item": "Asparagus spears"
+      },
+      {
+        "quantity": 150,
+        "item": "Carrots"
+      },
+      {
+        "quantity": 300,
+        "item": "Potatoes"
+      },
+      {
+        "quantity": 50,
+        "item": "Dark spice blend"
+      },
+      {
+        "quantity": 100,
+        "item": "Barbecue sauce"
+      },
+      {
+        "quantity": 30,
+        "item": "Honey"
+      },
+      {
+        "quantity": 20,
+        "item": "Garlic, minced"
+      },
+      {
+        "quantity": 10,
+        "item": "Smoked paprika"
+      },
+      {
+        "quantity": 5,
+        "item": "Fresh thyme"
+      },
+      {
+        "quantity": 5,
+        "item": "Salt"
+      },
+      {
+        "quantity": 5,
+        "item": "Black pepper"
+      }
+    ]
+  },
+  {
+    "hero": false,
+    "slug": "vanilla-milkshake",
+    "featured": true,
+    "name": "Classic Vanilla Milkshake",
+    "image": "https://files.oprisor.dev/api/public/dl/BDPa3Nc6?inline=true",
+    "category": "drinks",
+    "price": 7,
+    "description": "Indulge in the timeless delight of our Classic Vanilla Milkshake. Made with premium vanilla ice cream and fresh milk, this milkshake is a creamy concoction that is sure to satisfy your sweet cravings. Whether you're cooling off on a hot summer day or treating yourself to a decadent dessert, our Vanilla Milkshake is the perfect choice.",
+    "features": "Creamy Perfection: Our Vanilla Milkshake is crafted using the finest quality vanilla ice cream and fresh, cold milk, blended to creamy perfection. Each sip is rich, smooth, and bursting with the classic flavor of vanilla.\n\nSimple Elegance: With its clean and classic flavor profile, our Vanilla Milkshake is a timeless treat that appeals to milkshake lovers of all ages. It's the perfect balance of sweetness and creaminess, making it a delightful indulgence any time of day.",
+    "imageGallery1": "https://files.oprisor.dev/api/public/dl/Nd-85Ozt?inline=true",
+    "imageGallery2": "https://files.oprisor.dev/api/public/dl/RVVVY5OO?inline=true",
+    "imageGallery3": "https://files.oprisor.dev/api/public/dl/6yJBbqVq?inline=true",
+    "includes": [
+      {
+        "quantity": 250,
+        "item": "Premium vanilla ice cream"
+      },
+      {
+        "quantity": 200,
+        "item": "Fresh milk"
+      },
+      {
+        "quantity": 50,
+        "item": "Whipped cream"
+      },
+      {
+        "quantity": 30,
+        "item": "Vanilla extract"
+      },
+      {
+        "quantity": 20,
+        "item": "Granulated sugar"
+      },
+      {
+        "quantity": 10,
+        "item": "Maraschino cherry for garnish"
+      }
+    ]
+  },
+  {
+    "hero": false,
+    "slug": "tiramisu",
+    "name": "Tiramisu",
+    "image": "https://files.oprisor.dev/api/public/dl/xLVsm7I0?inline=true",
+    "category": "desserts",
+    "new": true,
+    "featured": true,
+    "price": 20,
+    "description": "Indulge in our classic Tiramisu, a layered Italian dessert that combines coffee-soaked ladyfingers with a rich and creamy mascarpone blend. Each layer is delicately dusted with cocoa, offering a balance of sweet and bitter flavors.",
+    "features": "Elegant Layers: Soft, coffee-drenched ladyfingers layered with a smooth mascarpone mixture, creating a delightful texture contrast.\n\nCocoa Dusting: A fine layer of cocoa powder on top adds a touch of bitterness to complement the sweet and creamy filling.",
+    "imageGallery1": "https://files.oprisor.dev/api/public/dl/5yY6cZny?inline=true",
+    "imageGallery2": "https://files.oprisor.dev/api/public/dl/hslOq-js?inline=true",
+    "imageGallery3": "https://files.oprisor.dev/api/public/dl/5YljD7kt?inline=true",
+    "includes": [
+      {
+        "quantity": 300,
+        "item": "Mascarpone"
+      },
+      {
+        "quantity": 200,
+        "item": "Ladyfingers"
+      },
+      {
+        "quantity": 100,
+        "item": "Espresso coffee"
+      },
+      {
+        "quantity": 50,
+        "item": "Granulated sugar"
+      },
+      {
+        "quantity": 30,
+        "item": "Cocoa powder"
+      },
+      {
+        "quantity": 5,
+        "item": "Vanilla extract"
+      },
+      {
+        "quantity": 3,
+        "item": "Egg yolks"
+      }
+    ]
+  }
+]
